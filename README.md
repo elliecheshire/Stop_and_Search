@@ -43,6 +43,8 @@ The goal is to investigate trends and potential biases in police stop and search
         - csv file of the ethnicity demographics of England and Wales 2021
 - georef-united-kingdom-region-millesime files
         - Shapefiles used for mapping and geographical analysis
+- commit_log.txt
+        - list of all commits to repository
 
 
 ## Setup:
