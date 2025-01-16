@@ -1,0 +1,37 @@
+e240843 Update README.md to include file details\
+bd261d6 Fix folder path in git\
+c3f22fd Finalize plots and comments\
+9417cc2 Create README.md\
+4b95332 Upload Presentation file\
+7a94296 Delete some exploratory figures and add additional comments\
+98a06a1 Change colours on graphs for cohesion - e.g. same colour for every time ethnic group is referenced\
+e730018 Created a line graph of number of stops per financial year and the number which resulted in searches Changed files paths to repository\
+a652dbc Add file containing ethnicity demographics for regions\
+ebc2c34 Upload .dbf file for regional map\
+705ab74 Upload .shx file for regional map\
+01d6284 Add shp file for regional map\
+df259bd Delete georef-united-kingdom-region.zip (Unzipped Files) to reupload seperately\
+4a2c6e0 Change dataset file locations to git repository\
+2b35bda Add Map Files to Repositry\
+a1f22ac Attempting to fix git\
+b0bc4cb Add files via upload\
+314f998 Delete Stop_Search_analysis_2.ipynb\
+b88cef5 Created graph comparing ethnic group populations and ethnic group demographic of police stops regionally (Note: Not Stated and Vehicle Searches not depicted on graph but included in percentage of police stops)\
+dc1a853 Finished a regional map of England and Wales showing number of police stops per year with slider to allow financial year data to be selected\
+b315ee3 Finished regional map of England and Wales showing number of stops with slider to allow financial year (2006-2023) to be selected\
+1262e13 Progressing with map plots of Police Stops in each Region\
+afc4136 Fill empty entries of "Region" column of combined data with ''Not Stated"\
+df0230e Created a graph of the Regional Police stops with bars for each Ethnic Group\
+3273fe8 Changed all unknown regions from '0' or 'nan' to 'Not Stated' for cohesion\
+ebf126b Graph showing legislation used for stop and the proportion of each ethnic group\
+6732238 Created a graph showing regional ethnicity demographics\
+28b0aa5 Delete Stop_Search_analysis\
+cdc2157 Corrected package imports - matplotlib\
+5d2e760 Created a graph showing the percentage of each ethnicity in the population in comparison to the percentage of all stops the ethnicity experienced\
+05684df Created a graph showing the ethnicity of stops against the number\
+9bf8226 Created a graph showing stops per year between 2007 and 2023\
+6d9dc26 Create a bar chart of number of stops conducted by each Police Force\
+10d4c8d Created a dataframe combining the 2007-2020 data with the 2021 - 2023 data\
+27ac48a Change column names to match in preperation to merge datasets\
+86b9688 Read in stop and search data 2007-2023\
+0e19f39 Create Stop_Search_analysis}
