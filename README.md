@@ -30,6 +30,21 @@ The goal is to investigate trends and potential biases in police stop and search
     - geopandas (v1.0.1)
 - Enviroment: Jupyter Notebook (v6.5.5)
 
-## Setup
+## Repository Files:
+- Exploring Disparities and Trends in Police Stops and Searches of England and Wales.pptx
+        - Powerpoint presentation presenting analaysis
+- Stop_Search_analysis.ipynb
+        - Google Colab Notebook containing python code of analysis
+- stop_search_07_20.xlsx
+        - excel spreadsheet containing Stop and Search Data for financial years 2006-2020 from GOV.UK
+- stop_search_21_23.xlsx
+        - excel spreadsheet containing Stop and Search Data for financial years 2021-2023 from GOV.UK
+- areas-of-england-and-wales-by-ethnicity.csv
+        - csv file of the ethnicity demographics of England and Wales 2021
+- georef-united-kingdom-region-millesime files
+        - Shapefiles used for mapping and geographical analysis
+
+
+## Setup:
 The project is designed to run in the Google Colab notebook. 
 Execute the cells in the notebook sequentially in order to preprocess the data and perform analysis.
